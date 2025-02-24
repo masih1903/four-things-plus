@@ -1,1 +1,1 @@
-Basic school project
+Unique user related to-do list
